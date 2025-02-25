@@ -71,14 +71,14 @@ const Contact = () => {
           <div className='flex flex-col items-center justify-center gap-y-5'>
             <div className='flex gap-x-5 h-14 flex-col gap-y-5 md:flex-row md:mb-0 mb-20'>
               <motion.div ref={nameRef} variants={nameVariants} initial="initial" animate={isNameInView ? "animate" : "initial"} transition={{duration: 0.3, delay: 0.7}}>
-                <input type="text" className='w-[430px] md:w-[330px] rounded-lg border-2 border-gray-400 p-4' placeholder='Enter your name' required />
+                <input type="text" className='w-[330px] md:w-[330px] rounded-lg border-2 border-gray-400 p-4' placeholder='Enter your name' required />
               </motion.div>
               <motion.div ref={emailRef} variants={emailVariants} initial="initial" animate={isEmailInView ? "animate" : "initial"} transition={{duration: 0.3, delay: 0.9}}>
-                <input type="email" name="email" className='w-[430px] md:w-[330px] rounded-lg border-2 border-gray-400 p-4' placeholder='Enter your email' required />
+                <input type="email" name="email" className='w-[330px] md:w-[330px] rounded-lg border-2 border-gray-400 p-4' placeholder='Enter your email' required />
               </motion.div>
             </div>
             <motion.div ref={textareaRef} variants={textareaVariants} initial="initial" animate={isTextareaInView ? "animate" : "initial"} transition={{duration: 0.3, delay: 1.1}}>
-              <textarea name="message" placeholder='Enter your message' className='w-[430px] md:w-[680px] h-[230px] p-4 rounded-lg border-2 border-gray-400' required />
+              <textarea name="message" placeholder='Enter your message' className='w-[330px] md:w-[680px] h-[230px] p-4 rounded-lg border-2 border-gray-400' required />
             </motion.div>
           </div>
 
