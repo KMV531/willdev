@@ -166,7 +166,7 @@ const About = () => {
                                  transition={{duration: 0.3, delay: index * 1}}
                                  className='about-tools' 
                                  key={toolBox.name}>
-                                <Image src={toolBox.icon} width={30} height={30} alt={toolBox.name} />
+                                <Image src={toolBox.icon} width={40} height={40} alt={toolBox.name} />
                             </motion.div>
                         );
                     })}
