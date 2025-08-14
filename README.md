@@ -25,8 +25,7 @@
 
 ## 🎨 Design Highlights
 
-![WillDev Screenshot](/screenshot.png)  
-*(Add actual screenshot path)*
+![WillDev Portfolio - Dark and Light Mode Example](./public/screenshot2.png)
 
 - **Performance**: 95+ Lighthouse score
 - **Accessibility**: WCAG 2.1 compliant
