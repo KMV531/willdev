@@ -52,7 +52,7 @@ I'm KMV Dev, a web developer specializing in:
 
 - **Responsive design systems**
 
-📩 Contact: koladjamomo@gmail.com
+📩 Contact: koladjamomo@gmail.com <br /> <br />
 🔗 More Work: http://kmvdev.vercel.app
 
 ## 💻 Local Development
