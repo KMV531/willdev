@@ -57,8 +57,14 @@ I'm KMV Dev, a web developer specializing in:
 
 ## 💻 Local Development
 
-```bash
-git clone https://github.com/yourusername/willdev.git
-cd willdev
-npm install
-npm run dev
+1. Clone repository:
+   ```bash
+   git clone https://github.com/KMV531/willdev.git
+   
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run development server:
+   ```bash
+   npm run dev
