@@ -5,7 +5,7 @@
 
 ✨ **A sleek, animated portfolio template** built with cutting-edge frontend technologies. Perfect for developers who want to showcase their work with style.
 
-## 🚀 Key Features
+## Key Features
 
 - **Micro-Interactions**: Smooth animations with Framer Motion
 - **Dark/Light Mode**: Theme toggle with system preference detection
@@ -13,7 +13,7 @@
 - **Modern Stack**: Next.js 14 + Tailwind CSS
 - **UI Components**: Built with shadcn/ui for consistency
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology       | Purpose                          |
 |------------------|----------------------------------|
@@ -23,7 +23,7 @@
 | shadcn/ui        | Accessible UI components         |
 | Vercel           | Hosting & deployment             |
 
-## 🎨 Design Highlights
+## Design Highlights
 
 ![WillDev Portfolio - Dark and Light Mode Example](./public/screenshot2.png)
 
@@ -32,7 +32,7 @@
 - **SEO Optimized**: Next.js built-in features
 
 
-## 🌟 Why This Stands Out
+## Why This Stands Out
 
 This isn't just another portfolio template:
 
@@ -42,7 +42,7 @@ This isn't just another portfolio template:
 
 - **Easy to customize for client projects**
 
-## 🤝 Available for Work
+## Available for Work
 
 I'm KMV Dev, a web developer specializing in:
 
@@ -52,10 +52,10 @@ I'm KMV Dev, a web developer specializing in:
 
 - **Responsive design systems**
 
-📩 Contact: koladjamomo@gmail.com <br /> <br />
-🔗 More Work: http://kmvdev.vercel.app
+Contact: koladjamomo@gmail.com <br /> <br />
+More Work: http://kmvdev.vercel.app
 
-## 💻 Local Development
+## Local Development
 
 1. Clone repository:
    ```bash
